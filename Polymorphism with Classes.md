@@ -1,5 +1,7 @@
 # # 🐍 Python OOP: Polymorphism with Classes
+## NAME : Ashish S
 
+## REG NO : 212224240017
 ## 🎯 AIM
 
 To create two specific classes — `Beans` and `Mango`. Then, create a **generic function** that can accept any object and determine its **type** (Fruit or Vegetable) and **color**, using polymorphism.
