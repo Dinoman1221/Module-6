@@ -1,5 +1,7 @@
 # 🐟 Method Overriding-Fish and Shark Class Inheritance in Python
+## NAME : Ashish S
 
+## REG NO : 212224240017
 ## 🧠 AIM:
 To write a Python program that demonstrates class inheritance by creating a parent class `Fish` with a method `type`, and a child class `Shark` that overrides the `type` method.
 
